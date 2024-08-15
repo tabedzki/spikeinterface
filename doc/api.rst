@@ -107,6 +107,7 @@ NEO-based
     .. autofunction:: read_spike2
     .. autofunction:: read_spikegadgets
     .. autofunction:: read_spikeglx
+    .. autofunction:: read_spikeglx_event
     .. autofunction:: read_tdt
     .. autofunction:: read_zarr
 

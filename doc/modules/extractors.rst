@@ -143,6 +143,7 @@ For raw recording formats, we currently support:
 * **Plexon 2** :py:func:`~spikeinterface.extractors.read_plexon2()`
 * **Shybrid** :py:func:`~spikeinterface.extractors.read_shybrid_recording()`
 * **SpikeGLX** :py:func:`~spikeinterface.extractors.read_spikeglx()`
+* **SpikeGLX NIDQ** :py:func:`~spikeinterface.extractors.read_spikeglx_event()`
 * **SpikeGLX IBL compressed** :py:func:`~spikeinterface.extractors.read_cbin_ibl()`
 * **SpikeGLX IBL stream** :py:func:`~spikeinterface.extractors.read_streaming_ibl()`
 * **Spike 2** :py:func:`~spikeinterface.extractors.read_spike2()`
